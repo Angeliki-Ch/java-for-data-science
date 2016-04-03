@@ -1,0 +1,26 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iws
+
+# Ordinarily I would include *.iml in .gitignore but won't so
+#  that you can reuse the IntelliJ settings
+# *.iml
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
