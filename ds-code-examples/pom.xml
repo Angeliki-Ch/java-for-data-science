@@ -40,7 +40,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com.forte.com.forte.helloworld.HelloWorldPrinter</mainClass>
+                            <mainClass>com.forte.helloworld.HelloWorldPrinter</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
