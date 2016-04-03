@@ -1,0 +1,1 @@
+This is an IntelliJ project with code samples for learning some of the syntax of Java. Enjoy responsibly.
